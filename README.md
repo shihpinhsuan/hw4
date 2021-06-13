@@ -2,6 +2,7 @@
 
 <br>Open a terminal and Compile the program.<br>
 * `$ git clone https://github.com/shihpinhsuan/hw4.git`
+
 <br>Execute the program.<br>
 
 
